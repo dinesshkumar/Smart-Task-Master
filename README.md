@@ -84,4 +84,39 @@ Customer Manage Profile Change Password:
 Employee Login Page:
 ![image](https://github.com/user-attachments/assets/ec77a30a-fcb5-417b-8734-e4683b5d1475)
 
+Employee Account - Create New AccountPage:
+![image](https://github.com/user-attachments/assets/e67f600e-df9d-494b-a12f-5de11493e8e4)
+
+Employee Account - Delete Account Page:
+![image](https://github.com/user-attachments/assets/66010eae-95fd-432c-abd0-c3e9b1704d4f)
+
+Employee Account - Update New Account Page:
+![image](https://github.com/user-attachments/assets/dc22e0cb-c8c2-48a1-a8a1-548309073a9d)
+
+Employee Account - Download Your Statement Page:
+![image](https://github.com/user-attachments/assets/7fc97f1a-2613-46fc-8900-3933f592cfe8)
+
+Employee Customer - :
+Employee Customer - :
+Employee Customer - :
+
+Employee Fund Transfer - :
+Employee Fund Transfer - :
+Employee Fund Transfer - :
+
+Employee Pending Approvals - Account Create Request Page:
+
+Employee Fund Transfer - Loan Request Page:
+
+Employee Customer Details:
+
+Employee Manage Profile - Page:
+Employee Manage Profile - Page:
+Employee Manage Profile - Page:
+
+
+
+
+
+
 
