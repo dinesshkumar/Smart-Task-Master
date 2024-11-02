@@ -3,7 +3,7 @@
 ## Installation
 
 ## Database Setup
-1.On the project folder, navigate to “backend\backend\settings.py” file, change the database parameter (line 115) to your credentials.< br / >
+1.On the project folder, navigate to “backend\backend\settings.py” file, change the database parameter (line 115) to your credentials.<br/>
 2.On terminal, cd backend  “python manage.py makemigrations”  “python manage.py migrate”< br / >
 
 ## Backend Setup
